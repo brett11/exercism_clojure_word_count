@@ -1,0 +1,7 @@
+(doc split)
+(doc "split")
+(doc split)
+(doc str)
+(find-doc split)
+(find-doc "split")
+exit
